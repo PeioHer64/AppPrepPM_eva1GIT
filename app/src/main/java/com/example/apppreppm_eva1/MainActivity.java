@@ -45,6 +45,7 @@ try{
 }catch (Exception e){
     Log.v(TAG, "no previous nickname found");
     Log.v(TAG, "U ARE A little Twink");
+    Log.v(TAG, "Mario odisssey sucks");
 }
 
 
